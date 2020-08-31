@@ -13,6 +13,9 @@ tlds:
 languages:
   bar: Austro-Bavarian German
 translations:
+  DEU:
+    common: Österreich
+    official: Österreich
   CYM:
     common: Awstria
     official: Republic of Austria

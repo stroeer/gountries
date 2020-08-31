@@ -21,6 +21,9 @@ languages:
   nob: Norwegian Bokmål
   smi: Sami
 translations:
+  DEU:
+    common: Norwegen
+    official: Norwegen
   FRA:
     common: Norvège
     official: Royaume de Norvège

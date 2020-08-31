@@ -25,6 +25,9 @@ languages:
   ita: Italian
   roh: Romansh
 translations:
+  DEU:
+    common: Schweiz
+    official: Schweiz
   FRA:
     common: Suisse
     official: Confédération suisse

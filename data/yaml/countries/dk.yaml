@@ -13,6 +13,9 @@ tlds:
 languages:
   dan: Danish
 translations:
+  DEU:
+    common: Dänemark
+    official: Dänemark
   FIN:
     common: Tanska
     official: Tanskan kuningaskunta

@@ -13,6 +13,9 @@ tlds:
 languages:
   eng: English
 translations:
+  DEU:
+    common: Großbritannien
+    official: Großbritannien
   FRA:
     common: Royaume-Uni
     official: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
