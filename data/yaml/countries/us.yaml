@@ -13,6 +13,9 @@ tlds:
 languages:
   eng: English
 translations:
+  DEU:
+    common: Vereinigte Staaten
+    official: Vereinigte Staaten von Amerika
   FRA:
     common: États-Unis
     official: Les états-unis d'Amérique
