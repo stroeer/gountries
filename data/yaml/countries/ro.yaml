@@ -13,6 +13,9 @@ tlds:
 languages:
   ron: Romanian
 translations:
+  DEU:
+    common: Rumänien
+    official: Rumänien
   FRA:
     common: Roumanie
     official: Roumanie

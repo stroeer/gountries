@@ -17,6 +17,9 @@ languages:
   eng: English
   fra: French
 translations:
+  DEU:
+    common: Kanada
+    official: Kanada
   FRA:
     common: Canada
     official: Canada

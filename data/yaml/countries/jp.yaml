@@ -14,6 +14,9 @@ tlds:
 languages:
   jpn: Japanese
 translations:
+  DEU:
+    common: Japan
+    official: Japan
   HRV:
     common: Japan
     official: Japan

@@ -53,6 +53,9 @@ languages:
   xho: Xhosa
   zul: Zulu
 translations:
+  DEU:
+    common: Südafrika
+    official: Südafrika
   FIN:
     common: Etelä-Afrikka
     official: Etelä-Afrikan tasavalta

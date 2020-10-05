@@ -21,6 +21,9 @@ languages:
   ita: Italian
   srd: Sardinian
 translations:
+  DEU:
+    common: Italien
+    official: Italien
   FRA:
     common: Italie
     official: République italienne
