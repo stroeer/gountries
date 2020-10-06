@@ -17,6 +17,9 @@ languages:
   grn: Guaraní
   spa: Spanish
 translations:
+  DEU:
+    common: Argentinien
+    official: Argentinien
   CYM:
     common: Ariannin
     official: Argentine Republic

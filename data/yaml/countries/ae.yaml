@@ -14,6 +14,9 @@ tlds:
 languages:
   ara: Arabic
 translations:
+  DEU:
+    common: Vereinigte Arabische Emirate
+    official: Vereinigte Arabische Emirate
   FIN:
     common: Arabiemiraatit
     official: Yhdistyneet arabiemiirikunnat

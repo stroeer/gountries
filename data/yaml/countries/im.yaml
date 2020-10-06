@@ -17,6 +17,9 @@ languages:
   eng: English
   glv: Manx
 translations:
+  DEU:
+    common: Insel Man
+    official: Insel Man
   FIN:
     common: Mansaari
     official: Mansaari

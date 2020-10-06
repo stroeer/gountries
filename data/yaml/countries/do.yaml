@@ -13,6 +13,9 @@ tlds:
 languages:
   spa: Spanish
 translations:
+  DEU:
+    common: Dominikanische Republik
+    official: Dominikanische Republik
   CYM:
     common: Gweriniaeth_Dominica
     official: Dominican Republic

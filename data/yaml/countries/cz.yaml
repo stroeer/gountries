@@ -17,6 +17,9 @@ languages:
   ces: Czech
   slk: Slovak
 translations:
+  DEU:
+    common: Tschechien
+    official: Tschechische Republik
   CYM:
     common: Y Weriniaeth Tsiec
     official: Czech Republic
