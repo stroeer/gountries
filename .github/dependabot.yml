@@ -1,0 +1,31 @@
+version: 2
+updates:
+  # GitHub Actions ecosystem
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+    open-pull-requests-limit: 10
+    cooldown:
+      default-days: 8
+    groups:
+      github-actions:
+        patterns:
+          - "*"
+
+  # Go modules ecosystem
+  # Note: This project currently does not use Go modules (no go.mod file)
+  # Uncomment this section once go.mod is added
+  # - package-ecosystem: "gomod"
+  #   directory: "/"
+  #   schedule:
+  #     interval: "weekly"
+  #     day: "monday"
+  #   open-pull-requests-limit: 10
+  #   cooldown:
+  #     default-days: 8
+  #   groups:
+  #     go-modules:
+  #       patterns:
+  #         - "*"
